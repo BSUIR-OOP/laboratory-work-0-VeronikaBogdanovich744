@@ -1,0 +1,7 @@
+C:\Users\Вероника\Desktop\4 сем\ооп\FiguresLR1\obj\Debug\FiguresLR1.csprojAssemblyReference.cache
+C:\Users\Вероника\Desktop\4 сем\ооп\FiguresLR1\obj\Debug\FiguresLR1.csproj.CoreCompileInputs.cache
+C:\Users\Вероника\Desktop\4 сем\ооп\FiguresLR1\bin\Debug\FiguresLR1.exe.config
+C:\Users\Вероника\Desktop\4 сем\ооп\FiguresLR1\bin\Debug\FiguresLR1.exe
+C:\Users\Вероника\Desktop\4 сем\ооп\FiguresLR1\bin\Debug\FiguresLR1.pdb
+C:\Users\Вероника\Desktop\4 сем\ооп\FiguresLR1\obj\Debug\FiguresLR1.exe
+C:\Users\Вероника\Desktop\4 сем\ооп\FiguresLR1\obj\Debug\FiguresLR1.pdb
